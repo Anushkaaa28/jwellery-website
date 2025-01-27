@@ -1,0 +1,33 @@
+form{
+    height: 450px;
+    width: 420px;
+    padding: 50px;
+    border-radius: 20px;
+    margin: 70px 0px 50px 100px;
+}
+
+.formBg{
+    /* background-color: rgb(211, 138, 96); */
+    
+}
+
+.submitButton{
+    padding: 5px 100px;
+    margin: 10px 40px;
+}   
+
+
+
+/* .sideImg{
+    height: 500px;
+    width: 450px;
+    margin: 70px 0px 0px 100px;
+} */
+
+.loginPage{
+  height: 651px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-image: url("https://almasjewelers.com/cdn/shop/files/almas-website-banner4_1.jpg?v=1721043802"); */
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/001/103/063/small_2x/remote-working-or-work-from-home-for-protecting-new-coronavirus.jpg");
+}

@@ -1,0 +1,40 @@
+.LandingImg{
+    /* height: 565px; */
+    width: 100%;
+}
+
+.navbarBrand{
+    text-transform: uppercase;
+    color: #0D5EBA;
+}
+
+li{
+    margin: 0px 20px;
+}
+
+.categories{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cardClass{
+    padding: 0;
+    border: none;
+    text-align: center;
+}
+
+.cardClass h5{
+    color: #002D69;
+    text-transform: uppercase;
+}
+
+footer{
+    text-align: center;
+    background-color: #B8E0EF;
+}
+
+.leftFooter{
+    width: 350px;
+    height: 300px;
+}
